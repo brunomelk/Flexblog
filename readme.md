@@ -1,0 +1,1 @@
+Criando um layout responsivo no CSS utilizando apenas as propriedades do Flexbox. Assim não precisará mais definir valores fixos e flutuar elementos para criar o seu layout.
