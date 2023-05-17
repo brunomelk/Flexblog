@@ -254,6 +254,8 @@ img {
     color: #222222;
 }
 
+/* Media queries - resposivo */
+
 @media (max-width: 800px){
     .preco {
         padding-left: 10px;
@@ -297,6 +299,8 @@ img {
     height: 30px;
     margin-right: 10px;
 }
+
+/* Pseudo classe - :nth-of-type */
 
 .qualidade-item:nth-of-type(3n+1) h2::before {
     background: #ae81ff;
